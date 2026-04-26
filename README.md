@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there
 
-I'm Boris — a software engineer building cloud-native backends, developer tools, and open-source libraries.
+I'm Boris — a software engineer building for aviation and beyond. I have also built, together with me teams, a couple of useful open source tools.
 
 ---
 
@@ -29,11 +29,8 @@ Trait-based static validation system for Dagster assets. Catch dependency mismat
 
 | Repository | Description | Language |
 |---|---|---|
-| [giox](https://github.com/scartill/giox) ⭐ 12 | Extensions for the [GIO UI](https://gioui.org/) immediate-mode GUI library for Go: Combobox, RigidEditor, RigidButton, and more | Go |
-| [era-asn](https://github.com/scartill/era-asn) ⭐ 3 | ASN.1 schemas for eCall, ERA-GLONASS and Save-X emergency call protocols | Erlang/ASN.1 |
-| [pygonets](https://github.com/scartill/pygonets) | SS Gonets satellite terminal Ethernet control protocol implementation | Python |
-| [semu](https://github.com/scartill/semu) | Slow Emulator — an experimental virtual machine | Python |
-| [scoutfence](https://github.com/scartill/scoutfence) | Scout team geofencing Android app | Kotlin |
+| [giox](https://github.com/scartill/giox)| Extensions for the [GIO UI](https://gioui.org/) immediate-mode GUI library for Go: Combobox, RigidEditor, RigidButton, and more | Go |
+| [semu](https://github.com/scartill/semu) | Slow Emulator — an experimental virtual machine for education | Python |
 | [bargaincave](https://github.com/scartill/bargaincave) | e-Shop backend with Ecwid and Dostavista integration (published as an example) | Kotlin |
 | [ciq_get_station](https://github.com/scartill/ciq_get_station) | Garmin ConnectIQ widget for Yandex.Transport | Python / Monkey C |
 | [hscribe](https://github.com/scartill/hscribe) | Hebrew transcription Telegram bot | Python |
