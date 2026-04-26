@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm Boris — a software engineer building for aviation and beyond. I have also built, together with me teams, a couple of useful open source tools.
+I'm Boris — a software engineer and a CTO building for aviation and beyond. I have also built, together with my teams, a couple of useful open source tools.
 
 ---
 
